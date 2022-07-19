@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807722418222",
+    "project_id": "dev-jboy-85d59",
+    "storage_bucket": "dev-jboy-85d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807722418222:android:154acf955382a6ff7f5fbf",
+        "android_client_info": {
+          "package_name": "com.fincloud.auth_test.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807722418222-dip4gqv91bjoenpp9g9sdgj264761b34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7l4M5RSt0G2RGd_kuJhbAPuZt7zbeJTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807722418222-dip4gqv91bjoenpp9g9sdgj264761b34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
